@@ -1,0 +1,19 @@
+{
+  "name": "nrc-helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jocelynsaysrawr/nrc-helloworld.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jocelynsaysrawr/nrc-helloworld/issues"
+  },
+  "homepage": "https://github.com/jocelynsaysrawr/nrc-helloworld#readme"
+}
